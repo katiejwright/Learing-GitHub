@@ -1,3 +1,0 @@
-This is new
-
-Here I am making an additional change but this is going to be WRONG, something that I want to delete
